@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1814VeRoBRU=",
+  "dgSpecHash": "KboAa6HPg7Q=",
   "success": true,
-  "projectFilePath": "C:\\KnabTestsUI\\KnabTestsUI\\KnabTestsUI.csproj",
+  "projectFilePath": "C:\\newKnab\\KnabTestsUI\\KnabTestsUI\\KnabTestsUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patta\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\patta\\.nuget\\packages\\azure.identity\\1.13.1\\azure.identity.1.13.1.nupkg.sha512",
@@ -96,9 +96,9 @@
     "C:\\Users\\patta\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\patta\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
     "C:\\Users\\patta\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
-    "C:\\Users\\patta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\patta\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\patta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512"
+    "C:\\Users\\patta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\patta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

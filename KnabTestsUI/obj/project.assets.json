@@ -6232,11 +6232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\KnabTestsUI\\KnabTestsUI\\KnabTestsUI.csproj",
+      "projectUniqueName": "C:\\newKnab\\KnabTestsUI\\KnabTestsUI\\KnabTestsUI.csproj",
       "projectName": "KnabTestsUI",
-      "projectPath": "C:\\KnabTestsUI\\KnabTestsUI\\KnabTestsUI.csproj",
+      "projectPath": "C:\\newKnab\\KnabTestsUI\\KnabTestsUI\\KnabTestsUI.csproj",
       "packagesPath": "C:\\Users\\patta\\.nuget\\packages\\",
-      "outputPath": "C:\\KnabTestsUI\\KnabTestsUI\\obj\\",
+      "outputPath": "C:\\newKnab\\KnabTestsUI\\KnabTestsUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patta\\AppData\\Roaming\\NuGet\\NuGet.Config"

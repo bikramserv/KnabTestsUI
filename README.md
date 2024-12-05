@@ -118,7 +118,7 @@ docker run -it --rm --ipc=host mcr.microsoft.com/playwright:v1.18.0-focal /bin/b
 # Debug locally using Test method Run/Debug command
 - Enable "OmniSharp Use Modern Net" in File>Preferences>Settings, searching "useModernNet". That will install OmiSharp for .NET 6 and prevent build error because of a "ref" folder (Same as in https://stackoverflow.com/questions/71356435/cannot-run-or-debug-c-sharp-tests-with-codelens-in-vscode).
 - Use appsettings.Development.json to define your own parameters.
-- If you use your own temp cluster, you need first to have one authorized scanner declared in the Nisadmin console (that have a thumbprint, e.g. using integration-test UI sending one case and uploading a certificate in the Nisadmin console).
+- 
 
 
 =======
