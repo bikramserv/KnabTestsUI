@@ -110,7 +110,7 @@ docker run -it --rm --ipc=host mcr.microsoft.com/playwright:v1.18.0-focal /bin/b
 > npx playwright install chrome
 > ls /ms-playwright
 
-# Some remarks
+# Some remark
 
 - QuerySelectorAllAsync is discouraged, use Locator, see `https://playwright.dev/dotnet/docs/api/class-elementhandle`.
 - Autorefresh/autoreload pages are difficult to test, so try to disable that feature when testing.
