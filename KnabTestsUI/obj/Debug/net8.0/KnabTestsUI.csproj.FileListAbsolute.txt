@@ -1,0 +1,5 @@
+C:\KnabTestsUI\KnabTestsUI\obj\Debug\net8.0\KnabTestsUI.csproj.AssemblyReference.cache
+C:\KnabTestsUI\KnabTestsUI\obj\Debug\net8.0\KnabTestsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\KnabTestsUI\KnabTestsUI\obj\Debug\net8.0\KnabTestsUI.AssemblyInfoInputs.cache
+C:\KnabTestsUI\KnabTestsUI\obj\Debug\net8.0\KnabTestsUI.AssemblyInfo.cs
+C:\KnabTestsUI\KnabTestsUI\obj\Debug\net8.0\KnabTestsUI.csproj.CoreCompileInputs.cache
